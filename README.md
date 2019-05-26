@@ -10,6 +10,7 @@
 #### a、投票选举组名和话题
 - [清单| 组名推荐](https://github.com/ding0521/AA002-John-Doe/issues/2)
 - [清单| 话题推荐](https://github.com/ding0521/AA002-John-Doe/issues/3)
+- [结果| 20190525第一次线上会议纪要](https://github.com/ding0521/AA002-John-Doe/issues/4)
 #### b、小组分成正反方，各方开始搜集素材
 #### c、提交论点论据初稿
 #### d、梳理脉络，确定思路和优化素材
