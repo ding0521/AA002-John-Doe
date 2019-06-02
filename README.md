@@ -1,5 +1,5 @@
 # AA002-John Doe
-这里是AA002-John Doe（暂定名）的大作业项目仓库，用于小组管理、资料沉淀等。
+这里是AA002-John Doe 人工智能 的大作业项目仓库，用于小组管理、资料沉淀等。
 
 ## 1、工作说明
 
@@ -12,7 +12,10 @@
 - [清单| 话题推荐](https://github.com/ding0521/AA002-John-Doe/issues/3)
 - [结果| 20190525第一次线上会议纪要](https://github.com/ding0521/AA002-John-Doe/issues/4)
 #### b、小组分成正反方，各方开始搜集素材
+- [结果| 20190602第二次线上会议纪要](https://github.com/ding0521/AA002-John-Doe/issues/6)
 #### c、提交论点论据初稿
+- [结果| IA002 人工智能论证小组协作](https://shimo.im/sheets/CzhAFaDK64I9crTK/)
+- 初稿：2019年6月8日前确定
 #### d、梳理脉络，确定思路和优化素材
 #### e、提交终稿
 #### f、报名路演，进行预演
@@ -70,4 +73,5 @@
 - SourceTree：关于用法可详询 @王蒙
 
 ## changelog
+190602 1433 星空里更新第二次会议后进展
 190519 1042 星空里创建文档
