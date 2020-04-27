@@ -13,11 +13,21 @@
 - [结果| 20190525第一次线上会议纪要](https://github.com/ding0521/AA002-John-Doe/issues/4)
 #### b、小组分成正反方，各方开始搜集素材
 - [结果| 20190602第二次线上会议纪要](https://github.com/ding0521/AA002-John-Doe/issues/6)
+
+   - [素材| 为什么最近有很多名人，比如比尔盖茨，马斯克、霍金等，让人们警惕人工智能？ - 知乎](https://zhuanlan.zhihu.com/p/19950456)
+   - [素材| 人工智能革命：第1部分 - 等等但为什么](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
+   - [素材| 都说人工智能越来越近，但有 11 种谬误还在遍地开花 | 每天还有一个 List_智能_好奇心日报](http://www.qdaily.com/articles/15061.html)
+
+
+
 #### c、提交论点论据初稿
 - [结果| IA002 人工智能论证小组协作](https://shimo.im/sheets/CzhAFaDK64I9crTK/)
 - 初稿：2019年6月8日前确定
 #### d、梳理脉络，确定思路和优化素材
+- [结果| notion 人工智能的影响 ](https://www.notion.so/08718b723e1149fe955d08d3bb854f4b)
 #### e、提交终稿
+- [结果| 石墨文档-人工智能 ](https://shimo.im/sheets/CzhAFaDK64I9crTK)
+
 #### f、报名路演，进行预演
 #### g、复盘
 
